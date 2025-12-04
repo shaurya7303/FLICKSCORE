@@ -1,4 +1,4 @@
-FlickScore 🎬
+FlickScore 🎬 the website is { https://flickscore-mzzedumz2zeterxbuzvala.streamlit.app/ }
 Movie Review Sentiment Analysis Web App
 
 FlickScore is a Streamlit-based web application that predicts the sentiment (Positive/Negative) of a movie review using a deep learning model trained on the IMDB dataset. It provides a modern UI with a card layout, gradient background, sentiment badges, and a smooth progress animation.
